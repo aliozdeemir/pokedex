@@ -1,13 +1,3 @@
-# Ensure consistent line endings
-* text=auto
-
-# Treat Markdown and text files as text
-*.md text
-*.yaml text
-*.yml text
-
-# Preserve executable bit for scripts
-*.sh text eol=lf
 *.dart linguist-detectable=true
 
 ios/** linguist-vendored
