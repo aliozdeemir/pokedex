@@ -8,3 +8,17 @@
 
 # Preserve executable bit for scripts
 *.sh text eol=lf
+*.dart linguist-detectable=true
+
+ios/** linguist-vendored
+android/** linguist-vendored
+web/** linguist-vendored
+windows/** linguist-vendored
+test/** linguist-vendored
+build/** linguist-vendored
+
+*.cmake linguist-vendored
+CMakeLists.txt linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.html linguist-vendored
