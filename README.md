@@ -1,8 +1,11 @@
-# Pokedex App
+# Pokedex App <p align="right">
+  <a href="README_EN.md">🇬🇧 English</a>
+</p>
 
 [![Flutter CI](https://github.com/aliozdeemir/pokedex/actions/workflows/flutter-ci.yml/badge.svg)](https://github.com/aliozdeemir/pokedex/actions/workflows/flutter-ci.yml) [![License](https://img.shields.io/github/license/aliozdeemir/pokedex)](LICENSE)
 
 [![GitHub](https://img.shields.io/badge/GitHub-@aliozdeemir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliozdeemir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20ÖZDEMİR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aoz-demir) [![Email](https://img.shields.io/badge/Email-aoz.demir%40outlook.com-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aoz.demir@outlook.com)
+
 
 Flutter ile geliştirilmiş, modern tasarım prensiplerini kullanan bir Pokémon veritabanı uygulaması.
 
