@@ -2,11 +2,9 @@
 
 [![Flutter CI](https://github.com/aliozdeemir/pokedex/actions/workflows/flutter-ci.yml/badge.svg)](https://github.com/aliozdeemir/pokedex/actions/workflows/flutter-ci.yml) [![License](https://img.shields.io/github/license/aliozdeemir/pokedex)](LICENSE)
 
-[![GitHub](https://img.shields.io/badge/GitHub-@aliozdeemir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliozdeemir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aoz%20Demir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aoz-demir) [![Email](https://img.shields.io/badge/Email-aoz.demir%40outlook.com-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aoz.demir@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@aliozdeemir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliozdeemir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20ÖZDEMİR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aoz-demir) [![Email](https://img.shields.io/badge/Email-aoz.demir%40outlook.com-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aoz.demir@outlook.com)
 
 Flutter ile geliştirilmiş, modern tasarım prensiplerini kullanan bir Pokémon veritabanı uygulaması.
-
-![Pokedex App](images/pokeball.png)
 
 ## Proje Özellikleri
 
@@ -76,6 +74,6 @@ flutter run
 
 <p>
 	<a href="https://github.com/aliozdeemir"><img src="https://img.shields.io/badge/GitHub-@aliozdeemir-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/aoz-demir"><img src="https://img.shields.io/badge/LinkedIn-Aoz%20Demir-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/aoz-demir"><img src="https://img.shields.io/badge/LinkedIn-Ali%20ÖZDEMİR-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="mailto:aoz.demir@outlook.com"><img src="https://img.shields.io/badge/Email-aoz.demir%40outlook.com-D14836?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
 </p>
